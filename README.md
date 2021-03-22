@@ -1,3 +1,3 @@
 # Basic RestFul API implemented with a CQRS approach.
 
-This project is just a sample about how to implement good Rest Full API with a CQRS approach
+This project is a simple implementation about CQRS in .net, using IMediatr. 
